@@ -1,0 +1,2 @@
+Ford,F150,1992,Sally,Resmond,102000
+Chevrolet,Cavalier,1982,James,Foster,240000
